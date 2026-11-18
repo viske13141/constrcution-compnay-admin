@@ -1,0 +1,6 @@
+{
+  "name": "BuildFlow — Company Admin Portal",
+  "description": "Enterprise construction workforce, site operations, procurement, inventory, payroll, and financial ERP platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
